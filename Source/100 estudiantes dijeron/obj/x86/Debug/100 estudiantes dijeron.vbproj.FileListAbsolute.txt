@@ -1,0 +1,52 @@
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.exe
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.pdb
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.xml
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.Resources.resources
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.exe
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.xml
+C:\Users\Alberto\Documents\Universidad Insurgentes\Redes de computadora 1\100 estudiantes dijeron\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.pdb
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.exe
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.xml
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.pdb
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.exe
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.pdb
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.xml
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.Resources.resources
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.GenerateResource.Cache
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\Interop.WMPLib.dll
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.ResolveComReference.cache
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\Interop.WMPLib.dll
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\AxInterop.WMPLib.dll
+C:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.frmJuego.resources
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\Interop.WMPLib.dll
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.ResolveComReference.cache
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.exe
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.xml
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.pdb
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.exe
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.pdb
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.xml
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\Interop.WMPLib.dll
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\AxInterop.WMPLib.dll
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.frmJuego.resources
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.Resources.resources
+E:\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.GenerateResource.Cache
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.exe
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.pdb
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\100 estudiantes dijeron.xml
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\Interop.WMPLib.dll
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\bin\Debug\AxInterop.WMPLib.dll
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbprojAssemblyReference.cache
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\Interop.WMPLib.dll
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.ResolveComReference.cache
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.frmJuego.resources
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\_100_estudiantes_dijeron.Resources.resources
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.GenerateResource.cache
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.vbproj.CoreCompileInputs.cache
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.exe
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.xml
+C:\VB\100 estudiantes dijeron\Source\100 estudiantes dijeron\obj\x86\Debug\100 estudiantes dijeron.pdb
